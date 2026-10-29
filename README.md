@@ -1,6 +1,6 @@
 # Roziy Xalqaro Maktabi — veb-sayt
 
-Shovot tumani (Xorazm) dagi Roziy xususiy maktabi (1–9-sinflar) uchun to'liq sayt: **Django REST** backend va **React (Vite)** frontend.
+ Roziy xususiy maktabi (1–9-sinflar) uchun to'liq sayt: **Django REST** backend va **React (Vite)** frontend.
 
 Loyihaning asosiy g'oyasi — **shaffoflik va ishonch**: ota-ona ariza holatini real vaqtda ko'ra oladi, kunlik taomnomani rasm bilan ko'radi, har bir sinfda farzandi nimalarga erishishini oddiy tilda biladi, va haqiqiy ota-onalar videosini ko'radi.
 
